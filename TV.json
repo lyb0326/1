@@ -84,7 +84,7 @@
         },
         {
             "key": "dr_荐片",
-            "name": "?荐片┃Js",
+            "name": "🐼荐片┃Js",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -133,7 +133,7 @@
         },
         {
             "key": "js_czsapp",
-            "name": "🐱?┃厂长┃Js",
+            "name": "🐱🐼┃厂长┃Js",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -173,7 +173,7 @@
         },
         {
             "key": "csp_Btwtoo",
-            "name": "?┃两个┃鼻涕",
+            "name": "🐼┃两个┃鼻涕",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -233,7 +233,7 @@
         },
         {
             "key": "js_农民",
-            "name": "🐱?┃农民┃影视",
+            "name": "🐱🐼┃农民┃影视",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -283,7 +283,7 @@
         },
         {
             "key": "js_007",
-            "name": "🐱?┃特工┃影视",
+            "name": "🐱🐼┃特工┃影视",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -346,7 +346,7 @@
         },
         {
             "key": "csp_FreeOK",
-            "name": "🐱?┃Free┃影院",
+            "name": "🐱🐼┃Free┃影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -379,7 +379,7 @@
             "key": "csp_SNzy",
             "name": "🐱┃索尼┃高清",
             "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "api": "https://suoniapi.com/api.php/provide/vod/🐼ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -413,7 +413,7 @@
         },
         {
             "key": "taopian",
-            "name": "🐱?淘片┃采集",
+            "name": "🐱🐼淘片┃采集",
             "type": 1,
             "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
             "searchable": 1,
@@ -456,7 +456,7 @@
             "name": "🐱┃非凡┃资源",
             "type": 1,
             "api": "http://ffzy1.tv/api.php/provide/vod/",
-            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+            "playurl": "json:http://jx.84jia.com/m3u8ts.php🐼url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -493,7 +493,7 @@
             "name": "🐱┃量子┃资源",
             "type": 1,
             "api": "https://lzizy1.com/api.php/provide/vod/",
-            "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+            "playurl": "json:http://jx.84jia.com/m3u8ts.php🐼url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -518,7 +518,7 @@
             "key": "49zy",
             "name": "🐱┃四九┃资源",
             "type": 1,
-            "api": "https://49zy1.com/api.php/provide/vod/?ac=list",
+            "api": "https://49zy1.com/api.php/provide/vod/🐼ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -560,9 +560,9 @@
         },
         {
             "key": "feisu",
-            "name": "🐱?飞速┃采集",
+            "name": "🐱🐼飞速┃采集",
             "type": 1,
-            "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+            "api": "https://www.feisuzyapi.com/api.php/provide/vod/🐼ac=list",
             "searchable": 1,
             "filterable": 0,
             "categories": [
@@ -601,7 +601,7 @@
             "key": "cjzy_暴风资源",
             "name": "🐱┃暴风┃影视",
             "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "api": "https://bfzyapi.com/api.php/provide/vod/🐼ac=list",
             "playUrl": "",
             "categories": [
                 "国产剧",
@@ -627,7 +627,7 @@
             "key": "百度",
             "name": "🐱百度┃采集",
             "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+            "api": "https://api.apibdzy.com/api.php/provide/vod/🐼ac=list",
             "searchable": 1,
             "filterable": 0
         },
@@ -673,7 +673,7 @@
         },
         {
             "key": "南坊",
-            "name": "?南坊┃App",
+            "name": "🐼南坊┃App",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
@@ -892,7 +892,7 @@
         },
         {
             "key": "js_磁力熊",
-            "name": "🐱?贝尔磁力┃Js",
+            "name": "🐱🐼贝尔磁力┃Js",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -957,7 +957,7 @@
         },
         {
             "key": "csp_Yj1211",
-            "name": "🐱?网红┃直播",
+            "name": "🐱🐼网红┃直播",
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 1,
@@ -966,7 +966,7 @@
         },
         {
             "key": "88js",
-            "name": "? 88┃看球",
+            "name": "🐼 88┃看球",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./libs/88看球.js",
@@ -980,7 +980,7 @@
         },
         {
             "key": "csp_qiumi",
-            "name": "? Jrs┃球迷",
+            "name": "🐼 Jrs┃球迷",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./libs/jrk.js",
@@ -994,7 +994,7 @@
         },
         {
             "key": "csp_310直播",
-            "name": "?310┃看球",
+            "name": "🐼310┃看球",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./libs/310直播.js",
@@ -1157,7 +1157,7 @@
         },
         {
             "key": "UpYun",
-            "name": "🐱?┃阿里┃云搜",
+            "name": "🐱🐼┃阿里┃云搜",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -1236,7 +1236,7 @@
         },
         {
             "key": "csp_聚短视频",
-            "name": "🐱?聚短┃视频",
+            "name": "🐱🐼聚短┃视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./libs/短视频.js",
@@ -1359,7 +1359,7 @@
         },
         {
             "key": "dr_童趣",
-            "name": "🐱?┃童趣┃播视",
+            "name": "🐱🐼┃童趣┃播视",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -1439,7 +1439,7 @@
         },
         {
             "key": "csp_Bili",
-            "name": "🐱?┃哔哩┃合集",
+            "name": "🐱🐼┃哔哩┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -1472,7 +1472,7 @@
         },
         {
             "key": "js_B站精简",
-            "name": "🐱?┃哔哩┃精简",
+            "name": "🐱🐼┃哔哩┃精简",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 0,
@@ -1482,7 +1482,7 @@
         },
         {
             "key": "csp_Bili_meishi",
-            "name": "🐱?┃美食┃合集",
+            "name": "🐱🐼┃美食┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1493,7 +1493,7 @@
         },
         {
             "key": "csp_Bili_youer",
-            "name": "🐱?┃幼儿┃教育",
+            "name": "🐱🐼┃幼儿┃教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1504,7 +1504,7 @@
         },
         {
             "key": "csp_Bili_xiaoxue",
-            "name": "🐱?┃小学┃教育",
+            "name": "🐱🐼┃小学┃教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1515,7 +1515,7 @@
         },
         {
             "key": "csp_Bili_czxx",
-            "name": "🐱?┃初中┃教育",
+            "name": "🐱🐼┃初中┃教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1526,7 +1526,7 @@
         },
         {
             "key": "csp_Bili_gaozxx",
-            "name": "🐱?┃高中┃教育",
+            "name": "🐱🐼┃高中┃教育",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1537,7 +1537,7 @@
         },
         {
             "key": "csp_Bili_zyy",
-            "name": "🐱?┃中医┃药区",
+            "name": "🐱🐼┃中医┃药区",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1548,7 +1548,7 @@
         },
         {
             "key": "csp_Bili_xuqu1",
-            "name": "🐱?┃戏曲┃合集",
+            "name": "🐱🐼┃戏曲┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1559,7 +1559,7 @@
         },
         {
             "key": "csp_Bili_TYjs",
-            "name": "🐱?┃体育┃健身",
+            "name": "🐱🐼┃体育┃健身",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1570,7 +1570,7 @@
         },
         {
             "key": "csp_Bili_xiangsh",
-            "name": "🐱?┃相声┃小品",
+            "name": "🐱🐼┃相声┃小品",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1581,7 +1581,7 @@
         },
         {
             "key": "csp_Bili_FBqx",
-            "name": "🐱?┃球队┃球星",
+            "name": "🐱🐼┃球队┃球星",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1592,7 +1592,7 @@
         },
         {
             "key": "csp_Bili_Meinvw",
-            "name": "🐱?┃美女┃舞蹈",
+            "name": "🐱🐼┃美女┃舞蹈",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1603,7 +1603,7 @@
         },
         {
             "key": "csp_Bili_yanchh",
-            "name": "🐱?┃歌手┃合集",
+            "name": "🐱🐼┃歌手┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1614,7 +1614,7 @@
         },
         {
             "key": "csp_Bili_Nvtuan",
-            "name": "🐱?┃女团┃热舞",
+            "name": "🐱🐼┃女团┃热舞",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1634,7 +1634,7 @@
         },
         {
             "key": "csp_Bili_MTV",
-            "name": "🐱?┃歌曲┃演唱",
+            "name": "🐱🐼┃歌曲┃演唱",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1645,7 +1645,7 @@
         },
         {
             "key": "csp_Bili_Yinl2",
-            "name": "🐱?┃音悦┃合集",
+            "name": "🐱🐼┃音悦┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1656,7 +1656,7 @@
         },
         {
             "key": "js_哔哩直播",
-            "name": "🐱?┃哔哩┃直播",
+            "name": "🐱🐼┃哔哩┃直播",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 0,
@@ -1685,7 +1685,7 @@
         {
             "name": "神秘的哥哥们",
             "type": 1,
-            "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+            "url": "http://api.888484.xyz/神秘哥哥/super.php🐼v=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1720,7 +1720,7 @@
         {
             "name": "公众号",
             "type": 1,
-            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl🐼url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1747,7 +1747,7 @@
         {
             "name": "免费分享",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
+            "url": "https://jx.xmflv.com/🐼url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1859,7 +1859,7 @@
                 "bfzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*🐼#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -1868,7 +1868,7 @@
                 "aws.ulivetv.net"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*🐼#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -1939,7 +1939,7 @@
             "url": "https://xhdwc.tk/tvlive.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "http://epg.112114.xyz/🐼ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
@@ -1948,7 +1948,7 @@
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "http://epg.112114.xyz/🐼ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ]
