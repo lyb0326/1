@@ -333,6 +333,18 @@
 		"ext": "http://rzys.xyz"
 	},
     {
+		"key": "腐宅",
+		"name": "腐宅",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 0,
+		"jar": "./XX/00/gd5ic01b6d4922692401eac6018178d033d06;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+		"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+	}, 
+    {
 		"key": "csp_Bttoo",
 		"name": "Btto┃直连",
 		"type": 3,
@@ -395,7 +407,64 @@
 		"playerType": 1,
 		"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
 		"ext": "./libs/黑狐.json"
-	},      
+	},   
+{
+		"key": "csp_聚短视频",
+		"name": "聚短┃视频",
+		"type": 3,
+		"api": "./js/drpy2.min.js",
+		"ext": "./libs/短视频.js",
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0
+	},
+ {
+		"key": "csp_XYQHiker_VSYY",
+		"name": "短剧┃VSY",
+		"type": 3,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"api": "csp_XYQHiker",
+		"jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+		"ext": "./libs/VS影院.json"
+	}, {
+		"key": "csp_Bili短剧",
+		"name": "短剧┃BiL",
+		"api": "csp_Bili",
+		"type": 3,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+		"ext": "./libs/Bili短剧.json"
+	}, {
+		"key": "XBPQ_葡萄",
+		"name": "短剧┃葡萄",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
+		"ext": {
+			"数组": "class=\"stui-vodlist__box&&</li",
+			"分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+			"分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+		}
+	}, {
+		"key": "csp_XBPQ_aoaotv",
+		"name": "短剧┃嗷嗷",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
+		"ext": {
+			"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+			"分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+		}
+	},    
+
+
         {
             "key": "Kuaikan",
             "name": "快看┃影视",
