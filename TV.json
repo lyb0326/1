@@ -15,7 +15,7 @@
         },
         {
 			"key": "业余采集A",
-			"name": "业余云自营 ",
+			"name": "业余云┃自营 ",
 			"type": 1,
 			"api": "http://ys.540734621.xyz/api.php/provide/vod/",
 			"playerType": 1,
@@ -35,7 +35,7 @@
 		
         {
 			"key": "SNzy",
-			"name": "索尼资源 ",
+			"name": "索尼┃资源 ",
 			"type": 1,
 			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json",
 			"searchable": 1,
@@ -75,7 +75,7 @@
 		},
 		{
 			"key": "xml_火狐",
-			"name": "豪华采集 ",
+			"name": "豪华┃采集 ",
 			"type": 1,
 			"api": "https://hhzyapi.com/api.php/provide/vod",
 			"searchable": 1,
@@ -112,7 +112,7 @@
 		
         {
 			"key": "量子",
-			"name": "量子采集 ",
+			"name": "量子┃采集 ",
 			"type": 0,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
 			"searchable": 1,
@@ -156,7 +156,7 @@
 		},
 		{
 			"key": "非凡",
-			"name": "非凡采集 ",
+			"name": "非凡┃采集 ",
 			"type": 0,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
 			"searchable": 1,
