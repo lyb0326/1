@@ -353,16 +353,6 @@
 		"ext": "http://yingszj.xn--654a.cc/api.php/app/"
 	},
     {
-		"key": "繁星",
-		"name": "繁星┃App",
-		"type": 3,
-		"api": "csp_AppMao",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-		"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
-	}, {
 		"key": "河马",
 		"name": "河马┃App",
 		"type": 3,
@@ -402,7 +392,7 @@
         },
     {
 		"key": "腐宅",
-		"name": "腐宅",
+		"name": "腐宅┃APP",
 		"type": 3,
 		"api": "csp_AppYsV2",
 		"searchable": 1,
@@ -618,19 +608,11 @@
             "filterable": 1,
             "ext": "./libs/czspp.js"
         },
-        {
-            "key": "Kuaikan",
-            "name": "快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         
         {
             "key": "csp_XBPQ_圣城",
-            "name": "圣城┃影视",
+            "name": "圣城┃短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
