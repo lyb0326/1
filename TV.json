@@ -553,7 +553,85 @@
 		"jar": "./XX/feimao/feimao/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
 		"ext": "./XX/feimao/feimao/短剧.json"
 	},
-     
+      {
+            "key": "csp_XBPQ_圣城",
+            "name": "圣城┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
+            "ext": "./libs/圣城.json"
+        },
+         {
+            "key": "csp_聚短视频",
+            "name": "聚短┃视频",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./libs/短视频.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "js_DJ5",
+            "name": "短剧┃DJ5",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./libs/短剧网.js"
+        },
+        {
+            "key": "csp_XYQHiker_VSYY",
+            "name": "短剧┃VSY",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XYQHiker",
+            "jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+            "ext": "./libs/VS影院.json"
+        },
+        {
+            "key": "csp_Bili短剧",
+            "name": "短剧┃BiL",
+            "api": "csp_Bili",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+            "ext": "./libs/Bili短剧.json"
+        },
+        {
+            "key": "XBPQ_葡萄",
+            "name": "短剧┃葡萄",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
+            "ext": {
+                "数组": "class=\"stui-vodlist__box&&</li",
+                "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+                "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+            }
+        },
+        {
+            "key": "csp_XBPQ_aoaotv",
+            "name": "短剧┃嗷嗷",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
+            "ext": {
+                "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+            }
+        },
 
 
         {
@@ -610,17 +688,7 @@
         },
         
         
-        {
-            "key": "csp_XBPQ_圣城",
-            "name": "圣城┃短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/圣城.json"
-        },
+     
         {
             "key": "csp_Btwtoo",
             "name": "两个┃鼻涕",
@@ -732,17 +800,7 @@
             "filterable": 1,
             "ext": "./libs/007.js"
         },
-        {
-            "key": "csp_XBPQ_圣城",
-            "name": "圣城┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/圣城.json"
-        },
+       
         {
             "key": "csp_XBPQ_348z",
             "name": "348┃电影",
@@ -1480,16 +1538,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "csp_聚短视频",
-            "name": "聚短┃视频",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/短视频.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
+      
         {
             "key": "有声小说js",
             "name": "有声┃小说",
@@ -1504,64 +1553,8 @@
             "quickSearch": 0,
             "changeable": 0
         },
-        {
-            "key": "js_DJ5",
-            "name": "短剧┃DJ5",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./libs/短剧网.js"
-        },
-        {
-            "key": "csp_XYQHiker_VSYY",
-            "name": "短剧┃VSY",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XYQHiker",
-            "jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-            "ext": "./libs/VS影院.json"
-        },
-        {
-            "key": "csp_Bili短剧",
-            "name": "短剧┃BiL",
-            "api": "csp_Bili",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-            "ext": "./libs/Bili短剧.json"
-        },
-        {
-            "key": "XBPQ_葡萄",
-            "name": "短剧┃葡萄",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": {
-                "数组": "class=\"stui-vodlist__box&&</li",
-                "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-                "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-            }
-        },
-        {
-            "key": "csp_XBPQ_aoaotv",
-            "name": "短剧┃嗷嗷",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": {
-                "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
-                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-            }
-        },
+     
+    
         {
             "key": "Bili",
             "name": "哔哔┃合集",
@@ -1805,7 +1798,7 @@
         },
         {
             "key": "csp_Bili_TYjs",
-            "name": "健身",
+            "name": "健身┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1816,7 +1809,7 @@
         },
         {
             "key": "csp_Bili_xiangsh",
-            "name": "相声",
+            "name": "相声┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1827,7 +1820,7 @@
         },
         {
             "key": "csp_Bili_FBqx",
-            "name": "球队",
+            "name": "球队┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1838,7 +1831,7 @@
         },
         {
             "key": "csp_Bili_Meinvw",
-            "name": "舞蹈",
+            "name": "舞蹈┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1891,7 +1884,7 @@
         },
         {
             "key": "csp_Bili_Yinl2",
-            "name": "音悦┃合集",
+            "name": "音乐┃合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
