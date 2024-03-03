@@ -294,6 +294,20 @@
 		"api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json",
 		"categories": ["国产剧", "欧美剧", "日本剧", "韩国剧", "其他剧", "新马剧", "泰剧", "悬疑片", "喜剧片", "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "犯罪片", "奇幻片", "惊悚片", "冒险片", "灾难片", "网络电影", "纪录片", "动画电影", "日本动漫", "欧美动漫", "国产动漫", "国产综艺", "韩国综艺", "港台综艺", "欧美综艺"]
 	}, 
+    
+ {
+      "key": "天空影院",
+      "name": "天空┃采集",
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "group": "默认",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": 6,
+      "resource": 55156
+    },
         {
             "key": "dr_nangua",
             "name": "南瓜┃影视",
