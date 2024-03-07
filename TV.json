@@ -309,64 +309,44 @@
       "resource": 55156
     },
     {
-            "key": "腾讯资源",
-            "name": "️腾讯影视",
-            "type": 1,
-            "api": "http: //playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-            "playUrl":"https: //jxdp.codermart.net/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-             "jar": "https: //pan.shangui.cc/f/VXLZf8/%E5%88%86%E4%BA%AB%E8%80%850127.jar;md5;521961979553a290c2cb3effa1dbdbe1",
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
+            "key": "爱奇异",
+            "name": "爱奇艺(官)",
+            "type": 3,
+            "api": "./XX/kaixin/lib/drpy2.min.js",
+            "jar": "./XX/kaixin/ttkx.jar",
+            "ext": "./XX/kaixin/lib/aiqiyi.js"
         },
         {
-            "key": "芒果资源",
-            "name": "️芒果影视",
-            "type": 1,
-            "api": "http: //playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-            "playUrl":"https: //vip.lianfaka.com/vip/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-             "jar": "https: //pan.shangui.cc/f/VXLZf8/%E5%88%86%E4%BA%AB%E8%80%850127.jar;md5;521961979553a290c2cb3effa1dbdbe1",
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
+            "key": "优酷",
+            "name": "优酷(官)",
+            "type": 3,
+            "api": "./XX/kaixin/lib/drpy2.min.js",
+             "jar": "./XX/kaixin/ttkx.jar",
+            "ext": "./XX/kaixin/lib/youku.js"
         },
         {
-            "key": "爱奇艺资源",
-            "name": "️奇艺影视",
-            "type": 1,
-            "api": "http: //playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-            "playUrl":"https: //jxdp.codermart.net/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-             "jar": "https: //pan.shangui.cc/f/VXLZf8/%E5%88%86%E4%BA%AB%E8%80%850127.jar;md5;521961979553a290c2cb3effa1dbdbe1",
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
+            "key": "腾讯",
+            "name": "腾讯(官)",
+            "type": 3,
+            "api": "./XX/kaixin/lib/drpy2.min.js",
+             "jar": "./XX/kaixin/ttkx.jar",
+            "ext": "./XX/kaixin/lib/tengxun.js"
         },
         {
-            "key": "优酷资源",
-            "name": "️优酷影视",
-            "type": 1,
-            "api": "http: //playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
-            "playUrl":"https: //www.cgdyw.net/jiexi/jiexi-gf/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-             "jar": "https: //pan.shangui.cc/f/VXLZf8/%E5%88%86%E4%BA%AB%E8%80%850127.jar;md5;521961979553a290c2cb3effa1dbdbe1",
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
+            "key": "芒果",
+            "name": "芒果(官)",
+            "type": 3,
+            "api": "./XX/kaixin/lib/drpy2.min.js",
+             "jar": "./XX/kaixin/ttkx.jar",
+            "ext": "./XX/kaixin/lib/mangguo.js"
         },
         {
-            "key": "搜狐资源",
-            "name": "️搜狐影视",
-            "type": 1,
-            "api": "http: //playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
-            "playUrl":"https: //jx.xmflv.com/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-             "jar": "https: //pan.shangui.cc/f/VXLZf8/%E5%88%86%E4%BA%AB%E8%80%850127.jar;md5;521961979553a290c2cb3effa1dbdbe1",
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
+            "key": "搜狗",
+            "name": "搜狗(官)",
+            "type": 3,
+            "api": "./XX/kaixin/lib/drpy2.min.js",
+             "jar": "./XX/kaixin/ttkx.jar",
+            "ext": "./XX/kaixin/lib/caigou.js"
         },
 
         {
