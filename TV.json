@@ -313,7 +313,7 @@
             "name": "爱奇艺(官)",
             "type": 3,
             "api": "./XX/kaixin/lib/drpy2.min.js",
-            "jar": "./XX/kaixin/ttkx.jar",
+          
             "ext": "./XX/kaixin/lib/aiqiyi.js"
         },
         {
@@ -321,7 +321,7 @@
             "name": "优酷(官)",
             "type": 3,
             "api": "./XX/kaixin/lib/drpy2.min.js",
-             "jar": "./XX/kaixin/ttkx.jar",
+            
             "ext": "./XX/kaixin/lib/youku.js"
         },
         {
@@ -329,7 +329,7 @@
             "name": "腾讯(官)",
             "type": 3,
             "api": "./XX/kaixin/lib/drpy2.min.js",
-             "jar": "./XX/kaixin/ttkx.jar",
+           
             "ext": "./XX/kaixin/lib/tengxun.js"
         },
         {
@@ -337,7 +337,7 @@
             "name": "芒果(官)",
             "type": 3,
             "api": "./XX/kaixin/lib/drpy2.min.js",
-             "jar": "./XX/kaixin/ttkx.jar",
+          
             "ext": "./XX/kaixin/lib/mangguo.js"
         },
         {
@@ -345,7 +345,7 @@
             "name": "搜狗(官)",
             "type": 3,
             "api": "./XX/kaixin/lib/drpy2.min.js",
-             "jar": "./XX/kaixin/ttkx.jar",
+         
             "ext": "./XX/kaixin/lib/caigou.js"
         },
 
