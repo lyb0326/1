@@ -867,43 +867,43 @@
       "ext": "./XX/kaixin/lib/duanju5.json"
     },
     {
-      "key": "爱奇异",
-      "name": "🎦爱奇艺(官)",
+      "key": "ai",
+      "name": "🎦爱爱",
       "type": 3,
       "api": "./XX/kaixin/lib/drpy2.min.js",
       "ext": "./XX/kaixin/lib/aiqiyi.js"
     },
     {
-      "key": "优酷",
-      "name": "🎦优酷(官)",
+      "key": "优优",
+      "name": "🎦优优",
       "type": 3,
       "api": "./XX/kaixin/lib/drpy2.min.js",
       "ext": "./XX/kaixin/lib/youku.js"
     },
     {
-      "key": "腾讯",
-      "name": "🎦腾讯(官)",
+      "key": "腾腾",
+      "name": "🎦腾腾",
       "type": 3,
       "api": "./XX/kaixin/lib/drpy2.min.js",
       "ext": "./XX/kaixin/lib/tengxun.js"
     },
     {
-      "key": "芒果",
-      "name": "🎦芒果(官)",
+      "key": "果果",
+      "name": "🎦果果",
       "type": 3,
       "api": "./XX/kaixin/lib/drpy2.min.js",
       "ext": "./XX/kaixin/lib/mangguo.js"
     },
     {
-      "key": "搜狗",
-      "name": "🎦搜狗(官)",
+      "key": "狗狗",
+      "name": "🎦狗狗",
       "type": 3,
       "api": "./XX/kaixin/lib/drpy2.min.js",
       "ext": "./XX/kaixin/lib/caigou.js"
     },
     {
       "key": "360影视",
-      "name": "🎦360影视(官)",
+      "name": "🎦360影视",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
