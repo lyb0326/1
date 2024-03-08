@@ -312,41 +312,41 @@
             "key": "爱奇异",
             "name": "爱奇艺(官)",
             "type": 3,
-            "api": "./XX/kaixin/lib/drpy2.min.js",
+            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
           
-            "ext": "./XX/kaixin/lib/aiqiyi.js"
+            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/aiqiyi.js"
         },
         {
             "key": "优酷",
             "name": "优酷(官)",
             "type": 3,
-            "api": "./XX/kaixin/lib/drpy2.min.js",
+            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
             
-            "ext": "./XX/kaixin/lib/youku.js"
+            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/youku.js"
         },
         {
             "key": "腾讯",
             "name": "腾讯(官)",
             "type": 3,
-            "api": "./XX/kaixin/lib/drpy2.min.js",
+            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
            
-            "ext": "./XX/kaixin/lib/tengxun.js"
+            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/tengxun.js"
         },
         {
             "key": "芒果",
             "name": "芒果(官)",
             "type": 3,
-            "api": "./XX/kaixin/lib/drpy2.min.js",
+            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
           
-            "ext": "./XX/kaixin/lib/mangguo.js"
+            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/mangguo.js"
         },
         {
             "key": "搜狗",
             "name": "搜狗(官)",
             "type": 3,
-            "api": "./XX/kaixin/lib/drpy2.min.js",
+            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
          
-            "ext": "./XX/kaixin/lib/caigou.js"
+            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/caigou.js"
         },
 
         {
