@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "dr_豆瓣",
-            "name": "豆瓣┃接口个人测试",
+            "name": "接口个人测试TEE",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 0,
