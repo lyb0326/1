@@ -121,10 +121,6 @@
 				"国产剧",
 				"韩国剧",
 				"日本剧",
-				"电影片",
-				"连续剧",
-				"综艺片",
-				"动漫片",
                 "国产动漫",
 				"日韩动漫",
 				"动作片",
@@ -308,46 +304,56 @@
       "id": 6,
       "resource": 55156
     },
+     {
+      "key": "meowtv_qysp",
+      "name": "奇艺┃视频",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/奇艺视频.js"
+    },
     {
-            "key": "爱奇异",
-            "name": "爱奇艺(官)",
-            "type": 3,
-            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
-          
-            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/aiqiyi.js"
-        },
-        {
-            "key": "优酷",
-            "name": "优酷(官)",
-            "type": 3,
-            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
-            
-            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/youku.js"
-        },
-        {
-            "key": "腾讯",
-            "name": "腾讯(官)",
-            "type": 3,
-            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
-           
-            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/tengxun.js"
-        },
-        {
-            "key": "芒果",
-            "name": "芒果(官)",
-            "type": 3,
-            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
-          
-            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/mangguo.js"
-        },
-        {
-            "key": "搜狗",
-            "name": "搜狗(官)",
-            "type": 3,
-            "api": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/drpy2.min.js",
-         
-            "ext": "http://tv.rihou.cc/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lib/caigou.js"
-        },
+      "key": "meowtv_txsp",
+      "name": "腾讯┃视频",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/腾讯视频.js"
+    },
+    {
+      "key": "meowtv_yksp",
+      "name": "优酷┃视频",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/优酷视频.js"
+    },
+    {
+      "key": "meowtv_mgsp",
+      "name": "芒果┃视频",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/芒果视频.js"
+    },
+    {
+      "key": "meowtv_sgys",
+      "name": "搜狗┃视频",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
+    },
 
         {
             "key": "dr_nangua",
