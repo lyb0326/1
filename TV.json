@@ -381,9 +381,36 @@
 		"type": 3,
 		"api": "csp_TTian",
 		"playerType": 2,
-		"jar": "./XX/qj/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
+		"jar": "./XX/qj/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
 		"ext": "http://op.ysdqjs.cn"
 	},
+     {
+      "key": "热播",
+      "name": "热播┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "jar": "./XX/qj/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "追剧",
+      "name": "追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "jar": "./XX/qj/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
+      "ext": "http://app.kzjtv.com"
+    },
+    {
+      "key": "发电",
+      "name": "发电┃App",
+      "type": 3,
+      "api": "csp_Fdys",
+      "playerType": 2
+      "jar": "./XX/qj/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
+    },
+    
         {
             "key": "77",
             "name": "七七┃App",
