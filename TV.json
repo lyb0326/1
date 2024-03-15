@@ -3,14 +3,16 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途。",
      "lives": [
-    {
-      "name": "♻️live",
+      {
+      "name": "直播",
       "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/live.txt",
       "playerType": 1,
+      "url": "http://meowtv.cn/zb",
+      "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    }
+  ],
     {
       "name": "♻️TV",
       "type": 0,
@@ -63,7 +65,7 @@
 			"key": "SNzy",
 			"name": "索尼┃资源 ",
 			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json",
+			"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
@@ -303,8 +305,10 @@
 		"type": 1,
 		"searchable": 1,
 		"changeable": 1,
-		"timeout": 60,
-		"api": "https://kuaikan-api.com/api.php/provide/vod/at/json",
+		
+         "filterable": 1,
+          "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+		"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
 		"categories": ["国产剧", "欧美剧", "日本剧", "韩国剧", "其他剧", "港台剧", "新马剧", "泰剧", "悬疑片", "喜剧片", "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "犯罪片", "奇幻片", "惊悚片", "冒险片", "灾难片", "网络电影", "纪录片", "动画电影", "日本动漫", "欧美动漫", "国产动漫", "国产综艺", "韩国综艺", "港台综艺", "欧美综艺"]
 	}, {
 		"key": "kuaiyunzy",
