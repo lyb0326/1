@@ -2,34 +2,7 @@
     "spider": "./fty.jar;md5;f8e21d60027d5d4f9e287be44f192c3f",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途。",
-     "lives": [
-      {
-      "name": "直播",
-      "type": 0,
-      "playerType": 1,
-      "url": "http://meowtv.cn/zb",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
-    {
-      "name": "♻️TV",
-      "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/zhibo.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "♻️MTV",
-      "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/MTV.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+    
     "sites": [
         {
             "key": "dr_豆瓣",
@@ -2468,24 +2441,32 @@
             ]
         }
     ],
-    "lives": [
-        {
-            "name": "sao0",
-            "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ]
+     "lives": [
+      {
+      "name": "直播",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://meowtv.cn/zb",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+ 
+    {
+      "name": "♻️TV",
+      "type": 0,
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/zhibo.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "♻️MTV",
+      "type": 0,
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/MTV.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
 }
