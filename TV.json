@@ -2455,7 +2455,7 @@
     {
       "name": "♻️TV",
       "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/zhibo.txt",
+      "url": "./js/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
