@@ -33,6 +33,67 @@
 				"体育"
 			]
 		},
+        {
+      "key": "短剧",
+      "name": "上头┃短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "酷看",
+      "name": "酷看┃秒播",
+      "type": 3,
+      "api": "csp_Kkys",
+       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   
+    {
+      "key": "原创",
+      "name": "原创┃无广",
+      "type": 3,
+      "api": "csp_YCyz",
+       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   
+    {
+      "key": "厂长",
+      "name": "厂长┃无广",
+      "type": 3,
+      "api": "csp_Czsapp",
+       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+    {
+      "key": "77",
+      "name": "七七┃秒播",
+      "type": 3,
+      "api": "csp_Kunyu77",
+       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    
+
+
 		
         {
 			"key": "SNzy",
