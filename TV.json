@@ -1,5 +1,5 @@
 {
-    "spider": "./fty.jar;md5;f8e21d60027d5d4f9e287be44f192c3f",
+    "spider": "./fty.jar;md5;dd909349c70fe92e82470eba611b7094",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途。",
     
@@ -38,7 +38,7 @@
       "name": "上头┃短剧",
       "type": 3,
       "api": "csp_Duanju",
-       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+      
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -48,7 +48,7 @@
       "name": "酷看┃秒播",
       "type": 3,
       "api": "csp_Kkys",
-       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+     
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -60,7 +60,7 @@
       "name": "原创┃无广",
       "type": 3,
       "api": "csp_YCyz",
-       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+      
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -72,7 +72,7 @@
       "name": "厂长┃无广",
       "type": 3,
       "api": "csp_Czsapp",
-       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+       
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -85,7 +85,7 @@
       "name": "七七┃秒播",
       "type": 3,
       "api": "csp_Kunyu77",
-       "jar": "./js/fty2403.jar;md5;dd909349c70fe92e82470eba611b7094",
+      
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
