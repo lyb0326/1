@@ -1,4 +1,4 @@
-﻿{
+{
 	"spider": "./fty/fty.jar;md5;f8e21d60027d5d4f9e287be44f192c3f",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途。",
@@ -83,15 +83,7 @@
 		"filterable": 1,
 		"categories": ["爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影"]
 	}, 
-{
-		"key": "taopian",
-		"name": "淘片┃采集",
-		"type": 1,
-		"api": "https://taopianapi.com/cjapi/mc/vod/json.html",
-		"searchable": 1,
-		"filterable": 0,
-		"categories": ["短剧", "伦理片"]
-	}, {
+ {
 		"key": "量子资源",
 		"name": "量子┃资源",
 		"type": 1,
@@ -125,14 +117,6 @@
 		"api": "https://bfzyapi.com/api.php/provide/vod/ac=list",
 		"playUrl": "",
 		"categories": ["理论片"]
-	}, {
-		"key": "百度",
-		"name": "百度┃采集",
-		"type": 1,
-		"api": "https://api.apibdzy.com/api.php/provide/vod/ac=list",
-		"searchable": 1,
-		"filterable": 0,
-                "categories": ["理论片"]
 	},
  {
 		"key": "快车资源",
@@ -188,16 +172,7 @@
 		"categories": ["伦理片"]
 	},
 
-{
-		"key": "1080zy",
-		"name": "1080(采集)",
-		"type": 1,
-		"searchable": 1,
-		"changeable": 1,
-		"timeout": 60,
-		"api": "https://api.1080zyku.com/inc/api_mac10.php",
-		"categories": ["伦理片"]
-	},
+
 {
 		"key": "49zyw",
 		"name": "49(采集)",
@@ -234,17 +209,7 @@
 		"timeout": 60,
 		"api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/json",
 		"categories": ["短剧", "伦理片"]
-	}, {
-		"key": "taopianapi",
-		"name": "淘片(采集)",
-		"type": 1,
-		"searchable": 1,
-		"changeable": 1,
-		"timeout": 60,
-		"api": "https://taopianapi.com/cjapi/mc/vod/json.html",
-		"categories": ["短剧", "伦理片"]
-	} 
-
+	}
 	],
 	"parses": [{
 		"name": "聚合",
