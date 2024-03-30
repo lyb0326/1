@@ -52,7 +52,7 @@
 
 {"key":" 香奶儿  ", "name": "香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "美少女   ","name": "美少女资源","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key": "cjszy","name": "超极速资源","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","style":{ "type":"oval","ratio": 0.75},"searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {
 		"key": "量子",
 		"name": "量子 ",
