@@ -33,16 +33,17 @@
 				"体育"
 			]
 		},
-        {
-      "key": "短剧",
-      "name": "上头┃短剧",
-      "type": 3,
-      "api": "csp_Duanju",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+      {
+            "key": "csp短剧网",
+            "name": "短剧┃手机",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./XX/TT/spider.jar",
+            "ext": "./XX/TT/lib/duanju5.json"
+        },
     {
       "key": "酷看",
       "name": "酷看┃秒播",
@@ -55,33 +56,7 @@
       "changeable": 1
     },
    
-    {
-      "key": "原创",
-      "name": "原创┃无广",
-      "type": 3,
-      "api": "csp_YCyz",
-      
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-   
-    {
-      "key": "厂长",
-      "name": "厂长┃无广",
-      "type": 3,
-      "api": "csp_Czsapp",
-       
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/"
-    },
-   
-    
+ 
 		
         {
 			"key": "SNzy",
@@ -807,61 +782,35 @@
       "id": 6,
       "resource": 55156
     },
-     {
-      "key": "meowtv_qysp",
-      "name": "奇艺┃视频",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-     
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/奇艺视频.js"
-    },
     {
-      "key": "meowtv_txsp",
-      "name": "腾讯┃视频",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/腾讯视频.js"
-    },
-    {
-      "key": "meowtv_yksp",
-      "name": "优酷┃视频",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-     
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/优酷视频.js"
-    },
-    {
-      "key": "meowtv_mgsp",
-      "name": "芒果┃视频",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/芒果视频.js"
-    },
-    {
-      "key": "meowtv_sgys",
-      "name": "搜狗┃视频",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
-    },
+            "key": "爱奇异",
+            "name": "奇艺┃影视",
+            "type": 3,
+            "api": "./XX/TT/lib/drpy2.min.js",
+            "ext": "./XX/TT/lib/aiqiyi.js"
+        },
+        {
+            "key": "优酷",
+            "name": "优酷┃影视",
+            "type": 3,
+            "api": "./XX/TT/lib/drpy2.min.js",
+            "ext": "./XX/TT/lib/youku.js"
+        },
+        {
+            "key": "腾讯",
+            "name": "腾讯┃影视",
+            "type": 3,
+            "api": "./XX/TT/lib/drpy2.min.js",
+            "ext": "./XX/TT/lib/tengxun.js"
+        },
+        {
+            "key": "芒果",
+            "name": "芒果┃影视",
+            "type": 3,
+            "api": "./XX/TT/lib/drpy2.min.js",
+            "ext": "./XX/TT/lib/mangguo.js"
+        },
+    
 
         {
             "key": "dr_nangua",
@@ -924,11 +873,11 @@
       "filterable": 0,
       "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
     },
-    {"key":"csp_Kunyu77",
-    "name":"七七┃APP",
-    "type":3,
-    "api":"csp_Kunyu77",
-    "jar": "./js/XBiubiuLA4.jar",
+    {"key": "Kuyun77",
+      "name": "七七┃App",
+      "type": 3,
+      "api": "csp_WexKuyun77",
+    "jar": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_22:27:52/1714055272414/88340903/wex.txt;md5;b2160310e1a54807295c369aa54f7196",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
