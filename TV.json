@@ -787,6 +787,7 @@
             "name": "奇艺┃影视",
             "type": 3,
             "api": "./XX/TT/lib/drpy2.min.js",
+            "jar": "./XX/TT/spider.jar",
             "ext": "./XX/TT/lib/aiqiyi.js"
         },
         {
@@ -794,6 +795,7 @@
             "name": "优酷┃影视",
             "type": 3,
             "api": "./XX/TT/lib/drpy2.min.js",
+            "jar": "./XX/TT/spider.jar",
             "ext": "./XX/TT/lib/youku.js"
         },
         {
@@ -801,6 +803,7 @@
             "name": "腾讯┃影视",
             "type": 3,
             "api": "./XX/TT/lib/drpy2.min.js",
+            "jar": "./XX/TT/spider.jar",
             "ext": "./XX/TT/lib/tengxun.js"
         },
         {
@@ -808,6 +811,7 @@
             "name": "芒果┃影视",
             "type": 3,
             "api": "./XX/TT/lib/drpy2.min.js",
+            "jar": "./XX/TT/spider.jar",
             "ext": "./XX/TT/lib/mangguo.js"
         },
     
