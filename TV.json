@@ -898,18 +898,17 @@
             "jar": "./XX/TT/spider.jar",
             "ext": "./XX/TT/lib/mangguo.js"
         },
-    
-
-        {
-            "key": "dr_nangua",
-            "name": "南瓜┃影视",
+ {
+            "key": "酷云七七",
+            "name": "七七┃影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "csp_WexKuyun77",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./libs/nangua.js"
-        },
+            "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9",
+            "changeable": 1
+        },   
+
+       
         {
             "key": "南瓜",
             "name": "南瓜┃App",
