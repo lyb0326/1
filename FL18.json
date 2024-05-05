@@ -99,20 +99,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "老鸭资源",
-            "name": "老鸭资源",
-            "type": 1,
-            "api": "https://api.apilyzy.com/api.php/provide/vod/",
-            "style": {
-                "type": "oval",
-                "ratio": 0.75
-            },
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       
         {
             "key": "博天堂   ",
             "name": "博天堂资源1",
