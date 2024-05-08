@@ -144,15 +144,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-        {
-			"key": "博天堂",
-			"name": "博天堂资源1",
-			"type": 0,
-			"api": "http://bttcj.com/inc/sapi.php",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+        
         {
 			"key": "白嫖资源",
 			"name": "白嫖资源",
