@@ -48,14 +48,14 @@
 		"filterable": 1,
 		"categories": ["伦理片", "短剧"]
 	}, 
-{"key": "淫水机  ", "name": "淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "淫水机", "name": "淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":" 香奶儿  ", "name": "香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "美少女   ","name": "美少女资源","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":" 香奶儿", "name": "香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "美少女","name": "美少女资源","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"*小湿妹资源","name":"小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key": "cjszy","name": "超极速资源","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","style":{ "type":"oval","ratio": 0.75},"searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {
-            "key": "155       ",
+            "key": "155",
             "name": "155资源",
             "type": 0,
             "playerType": 2,
@@ -101,7 +101,7 @@
         },
        
         {
-            "key": "博天堂   ",
+            "key": "博天堂",
             "name": "博天堂资源1",
             "type": 0,
             "api": "http://bttcj.com/inc/sapi.php",
@@ -110,7 +110,7 @@
             "filterable": 1
         },
         {
-            "key": "博天堂2   ",
+            "key": "博天堂2",
             "name": "博天堂资源2",
             "type": 0,
             "api": "http://bttcj.com/inc/sapi.php?ac=list",
@@ -119,7 +119,7 @@
             "filterable": 1
         },
         {
-            "key": "白嫖资源 ",
+            "key": "白嫖资源",
             "name": "白嫖资源",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php",
@@ -128,7 +128,7 @@
             "filterable": 1
         },
         {
-            "key": "黄AV资源 ",
+            "key": "黄AV资源",
             "name": "黄AV资源",
             "type": 0,
             "api": "https://www.pgxdy.com/api/xml.php",
@@ -140,7 +140,7 @@
        
         
         {
-            "key": "富二代     ",
+            "key": "富二代",
             "name": "富二代资源",
             "type": 0,
             "api": "http://f2dcj6.com/sapi?ac=list",
