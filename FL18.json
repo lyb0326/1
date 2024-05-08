@@ -94,20 +94,7 @@
 			"searchable": 0,
 			"quickSearch": 0
 		},
-		{
-			"key": "cjszy",
-			"name": "超极速资源",
-			"type": 1,
-			"api": "https://api.apilyzy.com/api.php/provide/vod/",
-			"style": {
-				"type": "oval",
-				"ratio": 0.75
-			},
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
         
 		
 		
