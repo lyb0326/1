@@ -44,6 +44,17 @@
             "jar": "./XX/TT/spider.jar",
             "ext": "./XX/TT/lib/duanju5.json"
         },
+        {
+            "key": "TLYY",
+            "name": "天龙┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./TLYY.jar",
+            "ext": "./libs/天龙影院.json"
+        },
     {
       "key": "酷看",
       "name": "酷看┃秒播",
