@@ -94,20 +94,7 @@
 			"searchable": 0,
 			"quickSearch": 0
 		},
-		{
-			"key": "cjszy",
-			"name": "超极速",
-			"type": 1,
-			"api": "https://api.apilyzy.com/api.php/provide/vod/",
-			"style": {
-				"type": "oval",
-				"ratio": 0.75
-			},
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "155",
 			"name": "155",
@@ -135,42 +122,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "环亚资源",
-			"name": "环亚资源",
-			"type": 0,
-			"api": "http://wmcj8.com/inc/sapi.php",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "环亚资源2",
-			"name": "环亚资源2",
-			"type": 0,
-			"api": "http://wmcj8.com/inc/sapi.php?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "博天堂",
-			"name": "博天堂资源1",
-			"type": 0,
-			"api": "http://bttcj.com/inc/sapi.php",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "博天堂2",
-			"name": "博天堂资源2",
-			"type": 0,
-			"api": "http://bttcj.com/inc/sapi.php?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		
 		
 		{
