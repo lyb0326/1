@@ -2656,8 +2656,9 @@
 
 {
       "name": "MeowTV",
-      "type": 1,
-      "url": "http://jx.meowtv.cn/?url="
+      "type": 0,
+      "url": ""https://jx.xmflv.com/?url=",
+      "ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}
     },
 
 	{
