@@ -33,17 +33,15 @@
 				"体育"
 			]
 		},
-      {
-            "key": "csp短剧网",
-            "name": "短剧┃手机",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./XX/TT/spider.jar",
-            "ext": "./XX/TT/lib/duanju5.json"
-        },
+       {
+      "key": "精品短剧",
+      "name": "精品┃短剧",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
+      "searchable": 1,
+      "jar": "http://稳定接口.tvbox.中国/jar.php;md5;f154ba973ace6562b2e82815952b089e",
+      "changeable": 1
+    },
         {
             "key": "TLYY",
             "name": "天龙┃影院",
@@ -56,16 +54,15 @@
             "ext": "./libs/天龙影院.json"
         },
          
-    {
-      "key": "酷看",
-      "name": "酷看┃秒播",
+     {
+      "key": "星芽短剧",
+      "name": "星芽┃短剧",
       "type": 3,
-      "api": "csp_Kkys",
-     
-      "timeout": 15,
+      "api": "csp_AppXY",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "quickSearch": 0,
+       "jar": "http://稳定接口.tvbox.中国/jar.php;md5;f154ba973ace6562b2e82815952b089e",
+      "filterable": 0
     },
    
  
