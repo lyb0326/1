@@ -22,6 +22,7 @@
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
+            "jar": "./XX/yydf/yydf.jar",
             "filterable": 1,
             "categories": [
                 "短剧",
@@ -62,6 +63,74 @@
                 "短剧"
             ]
         },
+        
+      "key": "f951be46-17fa-5f4f-9f41-ff25d21e8d74",
+      "name": "美少女18+",
+      "api": "https://www.msnii.com/api/xml.php",
+      "playUrl": "",
+      "group": "18+",
+      "search": 2,
+      "status": true,
+      "type": 0,
+      "id": "99",
+      "isActive": true,
+      "resource": 17905
+    },
+    {
+      "key": "54658e47-58bb-5221-bec2-82b8a3be2ec4",
+      "name": "淫水机18+",
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "playUrl": "",
+      "group": "18+",
+      "search": 2,
+      "status": true,
+      "type": 0,
+      "id": "100",
+      "isActive": true,
+      "resource": 16661
+    },
+    
+   
+    {
+      "key": "34cd623c-0b62-5426-a653-9c1db4a850e8",
+      "name": "黄AV18+",
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "playUrl": "",
+      "group": "18+",
+      "search": 2,
+      "status": false,
+      "type": 0,
+      "id": "103",
+      "isActive": true,
+      "resource": 16876
+    },
+   
+    {
+      "key": "Osu3dV",
+      "name": "香奶儿18+",
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "group": "18+",
+      "status": true,
+      "type": 0,
+      "search": 2,
+      "id": "105",
+      "playUrl": ""
+    },
+   
+    {
+      "name": "白嫖18+",
+      "api": "https://www.kxgav.com/api/xml.php",
+      "group": "18+",
+      "status": true,
+      "type": 0,
+      "search": 2,
+      "key": "4eef8bc4-71f8-54fa-bffd-d1d3d9e77dce",
+      "id": "107",
+      "playUrl": "",
+      "isActive": true,
+      "resource": 16688
+    },
+
         {
             "key": "ysj",
             "name": "ysj资源",
@@ -89,6 +158,72 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+      "key": "大地资源",
+      "name": "大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+{
+      "key": "鸡坤资源",
+      "name": "鸡坤资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "pgxdy.com",
+      "name": "成人39",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+{
+      "key": "msnii.com",
+      "name": "成人40",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+{
+      "key": "xrbsp.com",
+      "name": "成人41",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+{
+      "key": "kxgav.com",
+      "name": "成人42",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+
         {
             "key": "量子",
             "name": "量子 ",
