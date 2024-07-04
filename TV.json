@@ -50,6 +50,55 @@
                 "4K电影"
             ]
         },
+         {
+      "key": "天天影视",
+      "name": "天天┃影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "jar": "./XX/WDZG/jar.php;md5;f154ba973ace6562b2e82815952b089e",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "热播影视",
+      "name": "热播┃影视",
+      "type": 3,
+      "api": "csp_AppRB",
+      "searchable": 1,
+       "jar": "./XX/WDZG/jar.php;md5;f154ba973ace6562b2e82815952b089e",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "追剧影视",
+      "name": "追剧┃影视",
+      "type": 3,
+      "api": "csp_AppZJ",
+      "searchable": 1,
+      "jar": "./XX/WDZG/jar.php;md5;f154ba973ace6562b2e82815952b089e",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "素白白",
+      "name": "白白┃影视",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "jar": "./XX/WDZG/jar.php;md5;f154ba973ace6562b2e82815952b089e",
+      "changeable": 1
+    },
+     {
+      "key": "快看",
+      "name": "快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "jar": "./XX/WDZG/jar.php;md5;f154ba973ace6562b2e82815952b089e",
+      "quickSearch": 1,
+      "filterable": 1
+    },
        {
       "key": "精品短剧",
       "name": "精品┃短剧",
