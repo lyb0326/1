@@ -3206,7 +3206,7 @@
     {
       "name": "zhibo",
       "type": 0,
-      "url": "./js/live.txt",
+      "url": "https://codeberg.org/lui3366/B/raw/branch/main/js/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
