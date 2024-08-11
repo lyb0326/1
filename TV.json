@@ -18,11 +18,11 @@
 			"key": "业余采集A",
 			"name": "业余云┃自营 ",
 			"type": 1,
-			"api": "http://ys.540734621.xyz/api.php/provide/vod/",
+			"api": "http://540734621.xyz:25095/api.php/provide/vod/?",
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
-             "jar": "./XX/yydf/yydf.jar",
+             "jar": "./XX/yydf/yydf.jar;md5;2ce2e1f3f6655931e780e849a8a85225",
 			"filterable": 1,
 			"categories": [
 				"短剧",
